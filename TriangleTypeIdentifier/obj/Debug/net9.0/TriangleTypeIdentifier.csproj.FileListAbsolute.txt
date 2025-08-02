@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.exe
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.deps.json
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\bin\Debug\net9.0\TriangleTypeIdentifier.pdb
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.sourcelink.json
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\obj\Debug\net9.0\refint\TriangleTypeIdentifier.dll
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.pdb
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\obj\Debug\net9.0\TriangleTypeIdentifier.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Desktop\dcit318assigment 1\dcit318-assignment1-11253505\TriangleTypeIdentifier\obj\Debug\net9.0\ref\TriangleTypeIdentifier.dll
